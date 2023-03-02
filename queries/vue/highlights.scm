@@ -9,6 +9,8 @@
 (interpolation
   (raw_text) @none)
 
+(tag_name) @tag.name
+
 (directive_name) @tag.attribute
 
 (directive_attribute
@@ -21,3 +23,4 @@
   (directive_modifier)
   (directive_argument)
 ] @method
+
